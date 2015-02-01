@@ -1,0 +1,16 @@
+{
+  "name": "domo-server",
+  "version": "1.0.0",
+  "description": "Server for domo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Daniel Waksman",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^8.1.0",
+    "mongoose": "^3.8.22",
+    "passport": "^0.2.1"
+  }
+}

@@ -1,4 +1,5 @@
 /node_modules
+/mongo_inserts
 npm-debug.log
 .DS_Store
 /*.env
